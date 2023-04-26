@@ -1,0 +1,2 @@
+model_checkpoint_path: "indian_birds_classification_model_checkpoint"
+all_model_checkpoint_paths: "indian_birds_classification_model_checkpoint"
